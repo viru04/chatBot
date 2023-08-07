@@ -5,7 +5,7 @@ const chatbottoggler=document.querySelector(".chatbot-toggler");
 const chatbotcloseBtn=document.querySelector(".close-btn");
 
 let usermessage;
-const API_KEY= "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";
+const API_KEY= "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";
 
 const createchatLi= (message ,className) => {
       const chatLi= document.createElement("li");
